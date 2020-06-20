@@ -1,4 +1,4 @@
-## CrackMeOne
+## CrackMeOne - Solution
 *Stupid simple* crackme intended for **absolute** beginners. Your task is to find the secret key and enter it in the **password** field.
 
 1. Load crackme in xdbg64
