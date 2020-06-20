@@ -18,5 +18,5 @@ jne crackmeone...
 ````
 
 9. Clearly j5%9lk is the right password.
-10 Done.
+10. Done.
 
