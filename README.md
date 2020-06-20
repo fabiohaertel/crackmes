@@ -11,9 +11,11 @@
 8. Step over until:
 
 
+````
 mov dl,byte ptr ds:[eax] -- your password
 cmp dl,byte ptr ds:[ecx] -- j5%9lk
 jne crackmeone...
+````
 
 9. Clearly j5%9lk is the right password.
 10 Done.
